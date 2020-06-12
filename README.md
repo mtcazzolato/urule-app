@@ -1,5 +1,5 @@
 # ***URule:***  Ulcer Segmentation and Wound Area Measurement  
-*Last Update:* March 5th, 2020.  
+*Last Update:* June 12nd, 2020.  
 
 URule and URule-App for the segmentation and wound area measurement of ulcer images.  
 
@@ -7,7 +7,7 @@ URule and URule-App for the segmentation and wound area measurement of ulcer ima
 
 ## URule-App  
 
-URule-App is in its first version (v0.0.1).  
+URule-App is in its first version (v0.0.2).  
 The apk file for Android OS can be found in the ***app/*** folder of this repository.
 
 ### Hardware Requirements  
