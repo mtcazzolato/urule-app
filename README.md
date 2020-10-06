@@ -1,5 +1,6 @@
+
 # ***URule:***  Ulcer Segmentation and Wound Area Measurement  
-*Last Update:* June 12nd, 2020.  
+*Last Update:* October 6th, 2020.  
 
 URule and URule-App for the segmentation and wound area measurement of ulcer images.  
 
@@ -34,7 +35,9 @@ The experimental data reported in [***work under revision***] can be found in fo
 ## License and Citation Request  
 *URule* and *URule-App* are available for researches and data scientists under the GNU General Public License. In case of publication and/or public use of the available sources, as well as any resource derived from it, one should acknowledge its creators by citing the following paper.
 
-***>> Research work under revision. <<***
+*M. T. Cazzolato; J. S. Ramos; L. S. Rodrigues; L. C. Scabora; D. Y. T. Chino; A. E. S. Jorge; P. M. Azevedo-Marques; C. Traina Jr.; A. J. M. Traina. "Semi-Automatic Ulcer Segmentation and Wound Area Measurement Supporting Telemedicine,"  _2020 IEEE 33rd International Symposium on Computer-Based Medical Systems (CBMS)_, Rochester, MN, USA, 2020, pp. 356-361, doi: 10.1109/CBMS49503.2020.00073.*\
+Link: https://ieeexplore.ieee.org/document/9183060
+
 
 ## Institutional  
 
@@ -55,6 +58,6 @@ _Work team:_
 ## Contact Information  
 
 **We are open to collaborations.** In case of any interest on collaborations or for further information, please contact us through the following emails:  
-[mtcazzolato@gmail.com](mailto:mtcazzolato@gmail.com) (Mirela Cazzolato)  
-[agma@icmc.usp.br](mailto:agma@icmc.usp.br) (Agma Juci Machado Traina)
+[mtcazzolato at gmail dot com] (Mirela Cazzolato)  
+[agma at icmc dot usp dot br] (Agma Juci Machado Traina)
 
