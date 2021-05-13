@@ -4,7 +4,7 @@
 
 URule and URule-App for the segmentation and wound area measurement of ulcer images.  
 
-*Disclaimer:* This repository contains the description and resources reported in [Cazzolato *et al.*, 2021] and [Cazzolato *et al.*, 2020].  
+*Disclaimer:* This repository contains the description and resources reported in [Cazzolato *et al.*, 2020] and [Cazzolato *et al.*, 2021].  
 
 ## URule-App  
 
@@ -36,7 +36,7 @@ The experimental data reported in [Cazzolato *et al.*, 2020] and [Cazzolato *et 
 
 *URule* and *URule-App* are available for researches and data scientists under the GNU General Public License. In case of publication and/or public use of the available sources, as well as any resource derived from it, one should acknowledge its creators by citing the following paper.
 
-*M. T. Cazzolato; J. S. Ramos; L. S. Rodrigues; L. C. Scabora; D. Y. T. Chino; A. E. S. Jorge; P. M. Azevedo-Marques; C. Traina Jr.; A. J. M. Traina. "Semi-Automatic Ulcer Segmentation and Wound Area Measurement Supporting Telemedicine,"  _2020 IEEE 33rd International Symposium on Computer-Based Medical Systems (CBMS)_, Rochester, MN, USA, 2020, pp. 356-361, doi: 10.1109/CBMS49503.2020.00073.*\
+*[Cazzolato *et al.*, 2020] M. T. Cazzolato; J. S. Ramos; L. S. Rodrigues; L. C. Scabora; D. Y. T. Chino; A. E. S. Jorge; P. M. Azevedo-Marques; C. Traina Jr.; A. J. M. Traina. "Semi-Automatic Ulcer Segmentation and Wound Area Measurement Supporting Telemedicine,"  _2020 IEEE 33rd International Symposium on Computer-Based Medical Systems (CBMS)_, Rochester, MN, USA, 2020, pp. 356-361, doi: 10.1109/CBMS49503.2020.00073.*\
 Link: https://ieeexplore.ieee.org/document/9183060
 
 > @inproceedings{CazzolatoEtAl2020,
