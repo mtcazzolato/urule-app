@@ -1,10 +1,10 @@
 
 # ***URule:***  Ulcer Segmentation and Wound Area Measurement  
-*Last Update:* October 6th, 2020.  
+*Last Update:* May 13, 2021.  
 
 URule and URule-App for the segmentation and wound area measurement of ulcer images.  
 
-*Disclaimer:* This repository contains the description and resources reported in an ongoing work, that is *under review by the peers*. Extra information and citation details will be updated as soon the paper is published.
+*Disclaimer:* This repository contains the description and resources reported in [Cazzolato *et al.*, 2021] and [Cazzolato *et al.*, 2020].  
 
 ## URule-App  
 
@@ -30,14 +30,38 @@ The app *requires* access to the storage and camera of the device.
 
 ## Experimental Data  
 
-The experimental data reported in [***work under revision***] can be found in folder ***expData/*** .
+The experimental data reported in [Cazzolato *et al.*, 2020] and [Cazzolato *et al.*, 2021] can be found in folder ***expData/***.  
 
 ## License and Citation Request  
+
 *URule* and *URule-App* are available for researches and data scientists under the GNU General Public License. In case of publication and/or public use of the available sources, as well as any resource derived from it, one should acknowledge its creators by citing the following paper.
 
 *M. T. Cazzolato; J. S. Ramos; L. S. Rodrigues; L. C. Scabora; D. Y. T. Chino; A. E. S. Jorge; P. M. Azevedo-Marques; C. Traina Jr.; A. J. M. Traina. "Semi-Automatic Ulcer Segmentation and Wound Area Measurement Supporting Telemedicine,"  _2020 IEEE 33rd International Symposium on Computer-Based Medical Systems (CBMS)_, Rochester, MN, USA, 2020, pp. 356-361, doi: 10.1109/CBMS49503.2020.00073.*\
 Link: https://ieeexplore.ieee.org/document/9183060
 
+> @inproceedings{CazzolatoEtAl2020,
+    author      = {Cazzolato, Mirela T. and Ramos, Jonathan S. and Rodrigues, Lucas S. and Scabora, Lucas C. and Chino, Daniel Y. T. and Jorge, Ana E. S. and Azevedo-Marques, Paulo Mazzoncini and Traina, Caetano and Traina, Agma J. M.},
+    title       = {Semi-Automatic Ulcer Segmentation and Wound Area Measurement Supporting Telemedicine}, 
+    booktitle   = {2020 IEEE 33rd International Symposium on Computer-Based Medical Systems (CBMS)}, 
+    pages       = {356-361},
+    doi         = {10.1109/CBMS49503.2020.00073},
+}
+
+
+*[Cazzolato *et al.*, 2021] M. T. Cazzolato; J. S. Ramos; L. S. Rodrigues; L. C. Scabora; D. Y. T. Chino; A. E. S. Jorge; P. M. Azevedo-Marques; C. Traina Jr.; A. J. M. Traina. "**The UTrack Framework for Segmenting and Measuring Dermatological Ulcers through Telemedicine**,"  Journal *Computers in Biology and Medicine*, pages: 104489, 2021. DOI: 10.1016/j.compbiomed.2021.104489. ISSN:0010-4825.*  
+Link: [https://doi.org/10.1016/j.compbiomed.2021.104489](https://doi.org/10.1016/j.compbiomed.2021.104489)  
+  
+> @article{CazzolatoEtAl2021,
+    author      = {Mirela T. Cazzolato and Jonathan S. Ramos and Lucas S. Rodrigues and Lucas C. Scabora and Daniel Y.T. Chino and Ana E.S. Jorge and Paulo Mazzoncini {de Azevedo-Marques} and Caetano Traina and Agma J.M. Traina},
+    title       = {The UTrack Framework for Segmenting and Measuring Dermatological Ulcers through Telemedicine},
+    journal     = {Computers in Biology and Medicine},
+    pages       = {104489},
+    year        = {2021},
+    issn        = {0010-4825},
+    doi         = {https://doi.org/10.1016/j.compbiomed.2021.104489},
+    url         = {https://www.sciencedirect.com/science/article/pii/S0010482521002833},
+}
+  
 
 ## Institutional  
 
@@ -48,7 +72,7 @@ Relevant links
 [MIVisBD Project](http://gbdi.icmc.usp.br/project/MIVisBD/)  
 
 _Work team:_  
-> Mirela Cazzolato (Ph.D.)¹, Jonathan S. Ramos (Ph.D. Student)¹, Lucas Rodrigues (Msc. Student)¹, Lucas Scabora (Ph.D. Student)¹, Daniel Chino (Ph.D.)², Ana Jorge (Ph.D., MD.)³, Paulo Mazzoncini de Azevedo-Marques⁴, Caetano Traina-Jr. (Ph.D.)¹, Agma Traina (Ph.D.)¹.  
+> Mirela Cazzolato (Ph.D.)¹, Jonathan S. Ramos (Ph.D. Student)¹, Lucas Rodrigues (Msc. Student)¹, Lucas Scabora (Ph.D.)¹, Daniel Chino (Ph.D.)², Ana Jorge (Ph.D., MD.)³, Paulo Mazzoncini de Azevedo-Marques⁴, Caetano Traina-Jr. (Ph.D.)¹, Agma Traina (Ph.D.)¹.  
 
 ¹ Institute of Mathematics and Computer Sciences, University of São Paulo, Brazil.  
 ² InterlockLedger, São Paulo, Brazil  
